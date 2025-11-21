@@ -25,3 +25,11 @@ vite.config.ts.timestamp-*
 # .NET
 obj
 bin
+Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+Gateway/obj/Debug/net8.0/Gateway.AssemblyInfo.cs
+Gateway/obj/Debug/net8.0/Gateway.AssemblyInfoInputs.cache
+Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfo.cs
+Infrastructure/obj/Debug/net8.0/Infrastructure.AssemblyInfoInputs.cache
+WebAPI/obj/Debug/net8.0/WebAPI.AssemblyInfo.cs
+WebAPI/obj/Debug/net8.0/WebAPI.AssemblyInfoInputs.cache
