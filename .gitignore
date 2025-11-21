@@ -25,3 +25,6 @@ vite.config.ts.timestamp-*
 # 忽略编译输出目录
 **/bin/
 **/obj/
+
+# svelte
+.svelte-kit
