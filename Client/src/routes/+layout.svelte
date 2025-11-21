@@ -36,6 +36,8 @@
 			</div>
 		</header>
 
-		{@render children()}
+		<div class="flex flex-1 flex-col gap-4 p-4 pt-0">
+			{@render children()}
+		</div>
 	</Sidebar.Inset>
 </Sidebar.Provider>

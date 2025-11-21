@@ -18,7 +18,8 @@
     "Client/obj/Debug": true,
     "Client/Client.esproj": true,
     "Client/README.md": true,
-    "Client/.gitignore": true
+    "Client/.gitignore": true,
+    "tailwind.extension.json": true
   },
   "hide-files.files": [
     "src/app.html",
@@ -31,7 +32,8 @@
     "Client/obj/Debug",
     "Client/Client.esproj",
     "Client/README.md",
-    "Client/.gitignore"
+    "Client/.gitignore",
+    "tailwind.extension.json"
   ],
   "explorer.fileNesting.patterns": {
     "*.asax": "$(capture).*.cs, $(capture).*.vb",
