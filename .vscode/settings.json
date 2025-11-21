@@ -9,11 +9,29 @@
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
     "src/app.html": true,
-    "components.json": true
+    "components.json": true,
+    "Client/src/app.html": true,
+    "Client/src/app.d.ts": true,
+    "Client/node_modules": true,
+    "Client/.svelte-kit": true,
+    "Client/.vscode": true,
+    "Client/obj/Debug": true,
+    "Client/Client.esproj": true,
+    "Client/README.md": true,
+    "Client/.gitignore": true
   },
   "hide-files.files": [
     "src/app.html",
-    "components.json"
+    "components.json",
+    "Client/src/app.html",
+    "Client/src/app.d.ts",
+    "Client/node_modules",
+    "Client/.svelte-kit",
+    "Client/.vscode",
+    "Client/obj/Debug",
+    "Client/Client.esproj",
+    "Client/README.md",
+    "Client/.gitignore"
   ],
   "explorer.fileNesting.patterns": {
     "*.asax": "$(capture).*.cs, $(capture).*.vb",
