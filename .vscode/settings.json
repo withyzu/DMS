@@ -7,14 +7,13 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/.DS_Store": true,
-    "**/Thumbs.db": true
+    "**/Thumbs.db": true,
+    "src/app.html": true,
+    "components.json": true
   },
   "hide-files.files": [
     "src/app.html",
-    "components.json",
-    "README.md",
-    ".gitignore",
-    "Client.esproj"
+    "components.json"
   ],
   "explorer.fileNesting.patterns": {
     "*.asax": "$(capture).*.cs, $(capture).*.vb",
